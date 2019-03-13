@@ -20,4 +20,5 @@ export default {
 
 <style lang="scss">
 @import "~startbootstrap-sb-admin-2/scss/sb-admin-2";
+
 </style>

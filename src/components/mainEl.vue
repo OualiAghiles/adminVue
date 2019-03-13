@@ -53,6 +53,7 @@
         span(slot="icon")
           i.fas.fa-envelope-open.fa-2x.text-gray-300
   // Content Row
+  
 </template>
 <script>
 import card from './subs/Cards.vue';
